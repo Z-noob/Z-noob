@@ -9,19 +9,13 @@
 
 - 🌱 I’m currently learning **AI or python**
 
-- 👯 I’m looking to collaborate on [TBD](link)
-
-- 🤝 I’m looking for help with [TBD](link)
-
-- 👨‍💻 All of my projects are available at [porfolio link](porfolio link)
-
 - 📝 I regularly write articles on [https://dev.to/zhenni_wu_28d825b0254dcde](https://dev.to/zhenni_wu_28d825b0254dcde)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **zhenni5w@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences [resume link]([resume link](https://docs.google.com/document/d/1ucgrm1cUsCQcAFcP9zdJuiN1jqKf3ruATQuRVR-nOUk/edit?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
